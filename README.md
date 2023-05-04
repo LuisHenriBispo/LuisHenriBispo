@@ -1,7 +1,8 @@
 ### Oii, sou o Luís ( ou Luix, ou Luuu )
 
-- 📓 Estudando WebJava
+- 🖥️ Estudando WebJava
 - 😁 Pronouns: ele/dele
+- 🎮 Gosto de jogos
 
 <div>
   <a href="https://github.com/LuisHenriBispo">
