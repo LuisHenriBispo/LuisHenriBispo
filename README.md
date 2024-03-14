@@ -1,6 +1,6 @@
-### Oii, sou o Luís ( ou Luix, ou Luuu )
+### Oii, sou o Luís ( ou Luix )
 
-- 🖥️ Estudando WebJava
+- 🖥️ Estudando Desenvlvimento de Sistema
 - 😁 Pronouns: ele/dele
 - 🎮 Gosto de jogos
 
