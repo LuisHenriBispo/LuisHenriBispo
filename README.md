@@ -1,6 +1,6 @@
 ### Oii, sou o Luís ( ou Luix )
 
-- 🖥️ Estudando Desenvlvimento de Sistema
+- 🖥️ Estudando Desenvolvimento de Sistema
 - 😁 Pronouns: ele/dele
 - 🎮 Gosto de jogos
 
